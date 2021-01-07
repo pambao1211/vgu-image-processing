@@ -1,2 +1,2 @@
 # MIP
-This is my solutions for my Medical Image Processing Module' s assignment
+This is my solutions for my Medical Image Processing Module' s assignments
